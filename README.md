@@ -146,7 +146,7 @@
   <br/>
 
   <!-- Contribution Snake Graph (Auto-updates via Cron Workflow) -->
-  <img src="assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Graph" />
+  <img src="https://raw.githubusercontent.com/imaira203/imaira203/master/assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Graph" />
 
   <br/><br/>
 
