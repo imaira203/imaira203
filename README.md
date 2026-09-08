@@ -97,22 +97,17 @@
     </tr>
   </table>
 
-  <br/><br/>
 
   <!-- Cyber Matrix Rain Divider -->
   <img src="assets/divider.svg" width="100%" alt="Cyber Matrix Divider" />
 
-  <br/><br/>
 
   <!-- Matrix Digital Rain Stream & Realtime Diagnostic Console -->
   <img src="assets/matrix-rain.svg" width="100%" alt="Matrix Stream Console Diagnostics" />
 
-  <br/><br/>
 
   <!-- Cyber Matrix Rain Divider -->
   <img src="assets/divider.svg" width="100%" alt="Cyber Matrix Divider" />
-
-  <br/><br/>
 
   <!-- Contribution Streak & Activity Telemetry -->
   <p align="center">
@@ -135,17 +130,13 @@
     </a>
   </p>
 
-  <br/>
 
   <!-- Contribution Snake Graph (Auto-updates via Cron Workflow) -->
   <img src="https://raw.githubusercontent.com/imaira203/imaira203/master/assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Graph" />
 
-  <br/><br/>
-
   <!-- Cyber Matrix Rain Divider -->
   <img src="assets/divider.svg" width="100%" alt="Cyber Matrix Divider" />
 
-  <br/>
 
   <!-- Terminal System Telemetry Footer -->
   <p align="center">
