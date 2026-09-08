@@ -3,8 +3,6 @@
   <!-- Hero Banner: Cosmic Orbital System & Matrix Digital Rain (SMIL Animated) -->
   <img src="assets/hero.svg" width="100%" alt="AIRA - Full-Stack Developer &amp; System Builder" />
 
-  <br/><br/>
-
   <!-- Core Slogan (Monospace Cyan Typography) -->
   <h3><code>Build clean. Ship fast. Automate.</code></h3>
 
