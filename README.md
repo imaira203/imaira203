@@ -135,11 +135,11 @@
 
   <p align="center">
     <a href="https://github.com/imaira203">
-      <img src="https://github-readme-stats.vercel.app/api?username=imaira203&amp;show_icons=true&amp;theme=dark&amp;bg_color=070c18&amp;title_color=38bdf8&amp;text_color=94a3b8&amp;icon_color=38bdf8&amp;border_color=1e293b&amp;border_radius=12" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-extended.vercel.app/api?username=imaira203&amp;show_icons=true&amp;theme=dark&amp;bg_color=070c18&amp;title_color=38bdf8&amp;text_color=94a3b8&amp;icon_color=38bdf8&amp;border_color=1e293b&amp;border_radius=12" alt="GitHub Stats" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/imaira203">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaira203&amp;layout=compact&amp;theme=dark&amp;bg_color=070c18&amp;title_color=38bdf8&amp;text_color=94a3b8&amp;border_color=1e293b&amp;border_radius=12" alt="Top Languages" />
+      <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=imaira203&amp;layout=compact&amp;theme=dark&amp;bg_color=070c18&amp;title_color=38bdf8&amp;text_color=94a3b8&amp;border_color=1e293b&amp;border_radius=12" alt="Top Languages" />
     </a>
   </p>
 
