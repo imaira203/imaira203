@@ -6,8 +6,6 @@
   <!-- Core Slogan (Monospace Cyan Typography) -->
   <h3><code>Build clean. Ship fast. Automate.</code></h3>
 
-  <br/>
-
   <!-- Cyber Navigation & Metric Badges -->
   <p align="center">
     <a href="https://github.com/imaira203">
@@ -24,12 +22,8 @@
   <!-- Cyber Matrix Rain Divider (SMIL Animated - Continuous Waterfall) -->
   <img src="assets/divider.svg" width="100%" alt="Cyber Matrix Divider" />
 
-  <br/><br/>
-
   <!-- Architecture Overview Cards (Top Half) -->
   <img src="assets/stack.svg" width="100%" alt="Technology Stack and Architecture" />
-
-  <br/><br/>
 
   <!-- 16 Tech Stack Grid (Configurable HTML in README - Powered by External API) -->
   <table>
