@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" width="100%" height="64" role="img" aria-label="Cyber Matrix Rain Divider">
+  <defs>
+    <filter id="div-matrix-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="div-rail-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.1"/>
+      <stop offset="25%" stop-color="#334155" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#0284c7" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#334155" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1e293b" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <linearGradient id="div-cursor-glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+
+    <clipPath id="div-clip">
+      <rect width="1200" height="64"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .m-font { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; font-size: 10px; font-weight: 700; }
+    .dh { fill: #ffffff; filter: url(#div-matrix-glow); }
+    .dm { fill: #22d3ee; opacity: 0.85; }
+    .df { fill: #0e7490; opacity: 0.35; }
+  </style>
+
+  <g clip-path="url(#div-clip)">
+    <!-- Matrix Falling Streams Using Native SMIL (Guaranteed 100% Active in All Browsers & GitHub) -->
+    <g class="m-font">
+      <!-- Col 1 -->
+      <g transform="translate(90, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="2.4s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="2.4s" repeatCount="indefinite"/>
+          <text y="0" class="df">01</text>
+          <text y="14" class="dm">&gt;</text>
+          <text y="28" class="dh">λ</text>
+        </g>
+      </g>
+
+      <!-- Col 2 -->
+      <g transform="translate(180, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="3.2s" begin="-1.1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="3.2s" begin="-1.1s" repeatCount="indefinite"/>
+          <text y="0" class="df">0x</text>
+          <text y="14" class="dm">1</text>
+          <text y="28" class="dh">F</text>
+        </g>
+      </g>
+
+      <!-- Col 3 -->
+      <g transform="translate(270, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="2.2s" begin="-0.6s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="2.2s" begin="-0.6s" repeatCount="indefinite"/>
+          <text y="0" class="df">::</text>
+          <text y="14" class="dm">0</text>
+          <text y="28" class="dh">#</text>
+        </g>
+      </g>
+
+      <!-- Col 4 -->
+      <g transform="translate(360, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="2.9s" begin="-1.7s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="2.9s" begin="-1.7s" repeatCount="indefinite"/>
+          <text y="0" class="df">01</text>
+          <text y="14" class="dm">A</text>
+          <text y="28" class="dh">&gt;</text>
+        </g>
+      </g>
+
+      <!-- Col 5 -->
+      <g transform="translate(460, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="3.5s" begin="-1.9s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="3.5s" begin="-1.9s" repeatCount="indefinite"/>
+          <text y="0" class="df">10</text>
+          <text y="14" class="dm">_</text>
+          <text y="28" class="dh">1</text>
+        </g>
+      </g>
+
+      <!-- Col 6 -->
+      <g transform="translate(550, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="2.6s" begin="-0.8s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="2.6s" begin="-0.8s" repeatCount="indefinite"/>
+          <text y="0" class="df">λ</text>
+          <text y="14" class="dm">4</text>
+          <text y="28" class="dh">E</text>
+        </g>
+      </g>
+
+      <!-- Col 7 -->
+      <g transform="translate(640, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="3.1s" begin="-0.3s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="3.1s" begin="-0.3s" repeatCount="indefinite"/>
+          <text y="0" class="df">0x</text>
+          <text y="14" class="dm">7</text>
+          <text y="28" class="dh">9</text>
+        </g>
+      </g>
+
+      <!-- Col 8 -->
+      <g transform="translate(730, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="2.5s" begin="-1.5s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="2.5s" begin="-1.5s" repeatCount="indefinite"/>
+          <text y="0" class="df">01</text>
+          <text y="14" class="dm">&gt;</text>
+          <text y="28" class="dh">_</text>
+        </g>
+      </g>
+
+      <!-- Col 9 -->
+      <g transform="translate(820, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="3.4s" begin="-2.2s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="3.4s" begin="-2.2s" repeatCount="indefinite"/>
+          <text y="0" class="df">::</text>
+          <text y="14" class="dm">B</text>
+          <text y="28" class="dh">1</text>
+        </g>
+      </g>
+
+      <!-- Col 10 -->
+      <g transform="translate(910, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="2.8s" begin="-0.7s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="2.8s" begin="-0.7s" repeatCount="indefinite"/>
+          <text y="0" class="df">0x</text>
+          <text y="14" class="dm">2</text>
+          <text y="28" class="dh">λ</text>
+        </g>
+      </g>
+
+      <!-- Col 11 -->
+      <g transform="translate(1000, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="3.0s" begin="-1.6s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="3.0s" begin="-1.6s" repeatCount="indefinite"/>
+          <text y="0" class="df">11</text>
+          <text y="14" class="dm">0</text>
+          <text y="28" class="dh">&gt;</text>
+        </g>
+      </g>
+
+      <!-- Col 12 -->
+      <g transform="translate(1090, 0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0 -25; 0 70" dur="2.3s" begin="-0.4s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.2;0.8;1" dur="2.3s" begin="-0.4s" repeatCount="indefinite"/>
+          <text y="0" class="df">#</text>
+          <text y="14" class="dm">F</text>
+          <text y="28" class="dh">0</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Horizontal Cybernetic Rail Track -->
+    <g transform="translate(60, 32)">
+      <line x1="0" y1="0" x2="1080" y2="0" stroke="url(#div-rail-grad)" stroke-width="2.5"/>
+      <circle cx="0" cy="0" r="3" fill="#334155"/>
+      <circle cx="1080" cy="0" r="3" fill="#334155"/>
+
+      <!-- Terminal Markings -->
+      <text x="30" y="-8" fill="#475569" font-size="8.5" font-family="'JetBrains Mono', monospace" letter-spacing="2">[ MATRIX.BUS // 0x4F9B ]</text>
+      <text x="1050" y="-8" fill="#475569" font-size="8.5" font-family="'JetBrains Mono', monospace" letter-spacing="2" text-anchor="end">SYS.SYNC :: ACTIVE</text>
+
+      <!-- Glowing Cyan Vertical Slider Notch at ~35% with Native SMIL Animation -->
+      <g transform="translate(378, 0)">
+        <animateTransform attributeName="transform" type="translate" values="365 0; 395 0; 365 0" dur="5s" repeatCount="indefinite"/>
+        <rect x="-2.5" y="-15" width="5" height="30" rx="2.5" fill="url(#div-cursor-glow)">
+          <animate attributeName="opacity" values="0.7; 1; 0.7" dur="1.8s" repeatCount="indefinite"/>
+        </rect>
+        <circle cx="0" cy="0" r="8" fill="#67e8f9" opacity="0.4" filter="url(#div-matrix-glow)"/>
+        <circle cx="0" cy="0" r="2.5" fill="#ffffff"/>
+      </g>
+    </g>
+  </g>
+</svg>
